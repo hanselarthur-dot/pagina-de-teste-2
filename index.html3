@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Página de Teste Omnisiga</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="conteudo">
+    <h1>Teste de Fluxo</h1>
+    <p>Essa é a estrutura base da página. Layout e chatbot serão adicionados depois.</p>
+
+    <!-- Área onde o chatbot será inserido -->
+    <div id="chatbot-container"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
